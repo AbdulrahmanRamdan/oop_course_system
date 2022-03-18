@@ -1,0 +1,6 @@
+1-continue  skips the rest of the instructions inside
+ the loop and go for the next iteration.
+2-labaled break exit from a specific loop that has the label.
+3-statements are similar to goto statement labeled break-labelcontinue
+4--labeled continue skips all the instructions in loops till reach the label.
+5-classs is a kind of data type that you can define yourself.

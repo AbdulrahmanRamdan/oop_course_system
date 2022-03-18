@@ -1,0 +1,6 @@
+1-in Java, all arrays are dynamically  allocated
+2-break; exit the current loop it exists in
+3-Obtaining an array same steps process :Variable declaration,Memory allocation 
+4-Memory allocation mean Instantiating an Array
+5-An unlabeled break and continue are the simple known control structure 
+6-

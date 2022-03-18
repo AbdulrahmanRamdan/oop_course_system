@@ -1,0 +1,3 @@
+1-The jdk includes a set of command-line tools for compiling and running your java code including a copy of the JRE
+2-TDK=JRE+devalopent tool
+3-JRE=JVM+libraryclasses

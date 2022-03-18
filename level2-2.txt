@@ -1,0 +1,5 @@
+1- objects are variable of type class
+2-Every object belongs to class 
+3- problem is a set of objects
+4-objects telling each other what to do, by massage
+5-consturctor Is a member function with the same name as the class
